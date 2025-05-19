@@ -1,2 +1,5 @@
-To install SASS I used:
-npm install sass -v 3.7.4
+# To install SASS I followed these steps:
+
+mkdir 0x03-sass_scss
+cd 0x03-sass_scss
+npm install sass@3.7.4
